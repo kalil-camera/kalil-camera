@@ -1,6 +1,6 @@
 ### Desenvolvedor Back-end
 
-Focado em criar soluções escaláveis e eficientes, com cerca de 4 anos de experiência em:
+Focado em criar soluções escaláveis e eficientes, com anos de experiência em:
 
 - **Java**
 - **Spring Boot**
