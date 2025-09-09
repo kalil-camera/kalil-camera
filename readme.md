@@ -2,7 +2,7 @@
 
 **Backend Engineer | Java, Spring Boot, Microservices, APIs, AWS, Azure**  
 Open to full-time remote opportunities worldwide | Fluent in English | Based in Brazil  
-📫 Reach me via [LinkedIn](https://www.linkedin.com/in/kalileac/) or email: kalilcamera67@gmail.com
+📫 Reach me via [LinkedIn](https://www.linkedin.com/in/kalileac/) 
 
 ---
 
